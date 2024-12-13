@@ -25,7 +25,7 @@ To compile the source code and package the application:
 
 ```bash
 gradle build
-(OR)
+# (OR) use below command
 ./gradlew build
 
 ```
@@ -40,8 +40,8 @@ You can run the application directly using Gradle or the packaged JAR file.
 
 ```bash
 gradle bootRun
-(OR)
-/gradlew bootrun
+# (OR) use below command
+./gradlew bootrun
 ```
 
 #### Option 2: Using the JAR File
